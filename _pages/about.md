@@ -38,3 +38,4 @@ My current works focus on the combination of consumer search and behavioral econ
 # 💻 Academic Services
 - Editorial Office of *Journal of Economy and Technology*.
 
+Enjoy the journey @Jiajun Meng
