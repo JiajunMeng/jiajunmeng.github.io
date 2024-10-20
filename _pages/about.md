@@ -42,6 +42,6 @@ My current works focus on the combination of consumer search and behavioral econ
 
 ---
 
-<div style="text-align: center; color: #0B1746; font-style: italic;">
+<div style="text-align: center; font-style: italic;">
     “In the midst of winter, I found there was, within me, an invincible summer. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.”
 </div>
