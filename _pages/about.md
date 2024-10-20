@@ -38,11 +38,6 @@ My current works focus on the combination of consumer search and behavioral econ
 # 💻 Academic Services
 - Editorial Office of *Journal of Economy and Technology*.
   
-
-<br>
-<br>
-<br>
-<br>
-
+---
 
 *<center> “In the midst of winter, I found there was, within me, an invincible summer. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.” </center>*
