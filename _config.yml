@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiajun MENG (孟嘉俊)"
-description              : "Research interests: AI Strategy, Digital Economy, Consumer Search, Industrial Organization, Quantitative Marketing, Game Theory, Federated Learning."
+title                    : "Jiajun MENG"
+description              : "Research interests: AI Strategy, Digital Economy, Consumer Search, Industrial Organization, Quantitative Marketing, Game Theory, and Federated Learning."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
