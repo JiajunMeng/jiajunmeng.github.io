@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University. His research interests include AI strategy, digital economy, consumer search, industrial organization, quantitative marketing, game theory, and federated learning.
+Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University. My research interests include AI strategy, digital economy, consumer search, industrial organization, quantitative marketing, game theory, and federated learning.
+
+If you are interested in my work, please feel free to drop me an [email](jjmeng@buaa.edu.cn).
 
 # 📝 Publications 
 - [LLM technologies and information search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu, **Jiajun Meng**, Yongliang Yang, November 2024, *Journal of Economy and Technology*.
