@@ -39,11 +39,10 @@ My current works focus on the combination of consumer search and behavioral econ
 - Editorial Office of *Journal of Economy and Technology*.
   
 
-
-\
-\
-\
-\\
+<br>
+<br>
+<be>
+<br>
 
 
 *<center> “The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.” </center>*
