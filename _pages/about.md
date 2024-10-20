@@ -37,5 +37,7 @@ My current works focus on the combination of consumer search and behavioral econ
 
 # 💻 Academic Services
 - Editorial Office of *Journal of Economy and Technology*.
-
-Enjoy the journey @Jiajun Meng
+- 
+#
+#
+<center> *“The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.”* </center>
