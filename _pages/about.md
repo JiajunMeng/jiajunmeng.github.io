@@ -35,6 +35,6 @@ Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University
 - *2024.09 - present* PhD, Beihang University, Management Science and Engineering.
 - *2020.09 - 2024.06* BSc, Beihang University, Information Management and Information System.
 
-# Academic Services
+# 💻 Academic Services
 - Editorial Office of *Journal of Economy and Technology*.
 
