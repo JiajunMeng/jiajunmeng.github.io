@@ -29,7 +29,7 @@ My current works focus on the combination of consumer search and behavioral econ
 
 
 # 🎖 Honors and Awards
-- *2024.6* Excellent Graduate of Beijing City.
+- *2024.6* Outstanding Graduate of Beijing, China.
 
 # 📖 Educations
 - *2024.09 - present* PhD, Beihang University, Management Science and Engineering.
