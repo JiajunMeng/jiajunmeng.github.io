@@ -43,5 +43,5 @@ My current works focus on the combination of consumer search and behavioral econ
 ---
 
 <div style="text-align: center; font-style: italic;">
-    “In the midst of winter, I found there was, within me, an invincible summer. For it says that no matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.”
+    “**My Academic Genealogy**: Myself (Beihang) $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz”
 </div>
