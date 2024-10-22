@@ -43,5 +43,5 @@ My current works focus on the combination of consumer search and behavioral econ
 ---
 
 
-**My Academic Genealogy**: Myself (Beihang) $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz
+_**My Academic Genealogy**: Myself (Beihang) $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz_
 
