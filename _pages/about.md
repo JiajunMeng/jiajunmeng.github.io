@@ -36,7 +36,7 @@ My current works focus on the combination of consumer search and behavioral econ
 - *2020.09 - 2024.06* BSc, Beihang University, Information Management and Information System.
 
 # 💻 Academic Services
-- Editorial Office of *Journal of Economy and Technology*.
+- Editorial Manager of *Journal of Economy and Technology*.
   
 ---
 
