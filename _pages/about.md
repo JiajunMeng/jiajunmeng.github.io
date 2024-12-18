@@ -33,11 +33,11 @@ My current works focus on the combination of consumer search and behavioral econ
 - *2024.12*, CMAU 2nd Academic Forum on Big Data Marketing Excellent Paper Award.
 
 # 📖 Educations
-- *2024.09 - present* PhD, Beihang University, Management Science and Engineering.
-- *2020.09 - 2024.06* BSc, Beihang University, Information Management and Information System.
+- *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
+- *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
 # 💻 Academic Services
-- *2024.06- present* Editorial Manager of *Journal of Economy and Technology*.
+- *2024.06 - present*, Editorial Manager of *Journal of Economy and Technology*.
 
 # 💬 Presentations
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
