@@ -29,7 +29,8 @@ My current works focus on the combination of consumer search and behavioral econ
 
 
 # 🎖 Honors and Awards
-- *2024.6* Outstanding Graduate of Beijing, China.
+- *2024.06*, Outstanding Graduate of Beijing, China.
+- *2024.12*, CMAU $2^{nd}$ Academic Forum on Big Data Marketing Excellent Paper Award.
 
 # 📖 Educations
 - *2024.09 - present* PhD, Beihang University, Management Science and Engineering.
@@ -37,7 +38,11 @@ My current works focus on the combination of consumer search and behavioral econ
 
 # 💻 Academic Services
 - Editorial Manager of *Journal of Economy and Technology*.
-  
+
+# 💬 Presentations
+- *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
+- *2024.12*, Shanghai, CMAU $2^{nd}$ Academic Forum on Big Data Marketing.
+
 ---
 
 ---
