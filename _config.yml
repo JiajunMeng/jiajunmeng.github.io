@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiajun MENG"
-description              : #"Research interests: AI Strategy, Digital Economy, Consumer Search, Industrial Organization, Quantitative Marketing, Game Theory, Behavioral Economics, and Federated Learning."
+#description              : #"Research interests: AI Strategy, Digital Economy, Consumer Search, Industrial Organization, Quantitative Marketing, Game Theory, Behavioral Economics, and Federated Learning."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
