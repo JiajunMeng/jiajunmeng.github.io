@@ -19,7 +19,7 @@ redirect_from:
 
 Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University. My research interests include AI strategy, digital economy, consumer search, industrial organization, quantitative marketing, game theory, behavioral economics, and federated learning.
 
-My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn).
+My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn). In addition, I have a [blog](https://jiajunmengblog.github.io/) in which I hope to update my research, observations, and learning.
 
 # 📝 Publications 
 - [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu, **Jiajun Meng**, Yongliang Yang, November 2024, *Journal of Economy and Technology*.
