@@ -22,11 +22,11 @@ Jiajun Meng is a Ph.D. student of Economics and Management at Beihang University
 My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn). In addition, I have a [blog](https://jiajunmengblog.github.io/) in which I hope to update my research, observations, and learning.
 
 # 📝 Publications 
-- [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao*, January 2025, *Journal of Economy and Technology*.
-- [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu*, **Jiajun Meng**, Yongliang Yang, November 2024, *Journal of Economy and Technology*.
+- [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao\*, January 2025, *Journal of Economy and Technology*.
+- [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu\*, **Jiajun Meng**, Yongliang Yang, November 2024, *Journal of Economy and Technology*.
 
 # 💡 Working Paper
-- [Federated Learning and Free-riding in a Competitive Market](https://arxiv.org/abs/2410.12723), **Jiajun Meng**, Jing Chen, Dongfang Zhao, Lin Liu*, October 2024, *arXiv*. 
+- [Federated Learning and Free-riding in a Competitive Market](https://arxiv.org/abs/2410.12723), **Jiajun Meng**, Jing Chen, Dongfang Zhao, Lin Liu\*, October 2024, *arXiv*. 
 
 
 # 🎖 Honors and Awards
