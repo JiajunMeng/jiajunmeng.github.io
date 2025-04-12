@@ -22,7 +22,7 @@ I am a Ph.D. student of Economics and Management at Beihang University. My resea
 My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn).
 
 # Publications 
-- **Jiajun Meng**, Jing Chen, Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), *Journal of Economy and Technology*.
+- **Jiajun Meng**, Jing Chen, Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), *Journal of Economy and Technology*. 
 - Lin Liu\*, **Jiajun Meng**, Yongliang Yang (2024), [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), *Journal of Economy and Technology*.
 
 # Working Paper
