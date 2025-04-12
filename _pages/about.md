@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student of Economics and Management at Beihang University. My research interests include AI strategy, digital economy, consumer search, industrial organization, quantitative marketing, game theory, behavioral economics, and federated learning.
-
-My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn).
+I am a Ph.D. student in Economics and Management at Beihang University. My current research focuses on AI strategy, platform economics, consumer search, and behavioral economics. Methodologically, I employ game theory and structural modeling.
 
 # Publications 
 - **Jiajun Meng**, Jing Chen, Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), *Journal of Economy and Technology*. 
