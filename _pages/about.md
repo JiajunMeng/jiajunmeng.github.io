@@ -21,26 +21,26 @@ I am a Ph.D. student of Economics and Management at Beihang University. My resea
 
 My current works focus on the combination of consumer search and behavioral economics, and the economic impact of federated learning. If you are interested in my work, please feel free to drop me an [email](mailto:jjmeng@buaa.edu.cn).
 
-# 📝 Publications 
-- [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao\*, January 2025, *Journal of Economy and Technology*.
-- [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu\*, **Jiajun Meng**, Yongliang Yang, November 2024, *Journal of Economy and Technology*.
+# Publications 
+- **Jiajun Meng**, Jing Chen, Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), *Journal of Economy and Technology*.
+- Lin Liu\*, **Jiajun Meng**, Yongliang Yang (2024), [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), *Journal of Economy and Technology*.
 
-# 💡 Working Paper
-- [Federated Learning and Free-riding in a Competitive Market](https://arxiv.org/abs/2410.12723), **Jiajun Meng**, Jing Chen, Dongfang Zhao, Lin Liu\*, October 2024, *arXiv*. 
+# Working Paper
+- **Jiajun Meng**, Jing Chen, Dongfang Zhao, Lin Liu\*, [Federated Learning and Free-riding in a Competitive Market](https://arxiv.org/abs/2410.12723). 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.06*, Outstanding Graduate of Beijing, China.
 - *2024.12*, CMAU 2nd Academic Forum on Big Data Marketing Excellent Paper Award.
 
-# 📖 Educations
+# Educations
 - *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
-# 💻 Academic Services
+# Academic Services
 - *2024.06 - present*, Editorial Manager of *Journal of Economy and Technology*.
 
-# 💬 Presentations
+# Presentations
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
 - *2024.12*, Shanghai, CMAU 2nd Academic Forum on Big Data Marketing.
 
