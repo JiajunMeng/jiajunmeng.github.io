@@ -22,6 +22,11 @@ I am a Ph.D. student in Economics and Management at Beihang University. My curre
 # Publications 
 - [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao\*,  *Journal of Economy and Technology* (2025).  
   &emsp;▪ Discussed by [*The Financial Analyst*](https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/).
+<ul>
+  <li style="list-style-type: square;">第一点内容第一点内容第一点内容第一点内容第一点内容第一点内容第一点内容</li>
+  <li style="list-style-type: square;">第二点内容</li>
+  <li style="list-style-type: square;">第三点内容</li>
+</ul>
 
 - [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu\*, **Jiajun Meng**, Yongliang Yang, *Journal of Economy and Technology* (2024).
 
