@@ -20,10 +20,8 @@ redirect_from:
 I am a Ph.D. student in Economics and Management at Beihang University. My current research focuses on AI strategy, platform economics, consumer search, and behavioral economics. Methodologically, I employ game theory and structural modeling.
 
 # Publications 
-- [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao\*,  *Journal of Economy and Technology* (2025).
-   &emsp;
 - [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), **Jiajun Meng**, Jing Chen, Dongfang Zhao\*,  *Journal of Economy and Technology* (2025).  
-  &emsp;▪ A discussion about this paper on *The Financial Analyst*: [Federated Learning Emerges as Key to Collaboration in Competitive Markets](https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/)
+  &emsp;▪ Discussed by [*The Financial Analyst*](https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/).
 
 - [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu\*, **Jiajun Meng**, Yongliang Yang, *Journal of Economy and Technology* (2024).
 
