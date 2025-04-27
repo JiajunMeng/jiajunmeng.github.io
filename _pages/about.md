@@ -41,7 +41,7 @@ I am a Ph.D. student in Economics and Management at Beihang University. My curre
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
 # Academic Services
-- *2024.06 - present*, Editorial Manager, *Journal of Economy and Technology*.
+- *2024.06 - present*, Managing Editor, *Journal of Economy and Technology*.
 
 # Presentations
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
