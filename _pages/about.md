@@ -34,14 +34,14 @@ I am a Ph.D. student in Economics and Management at Beihang University. My curre
 
 # Honors and Awards
 - *2024.06*, Outstanding Graduate of Beijing, China.
-- *2024.12*, CMAU 2nd Academic Forum on Big Data Marketing Excellent Paper Award.
+- *2024.12*, Excellent Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
 
 # Educations
 - *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
 # Academic Services
-- *2024.06 - present*, Editorial Manager of *Journal of Economy and Technology*.
+- *2024.06 - present*, Editorial Manager, *Journal of Economy and Technology*.
 
 # Presentations
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
