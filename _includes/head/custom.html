@@ -20,45 +20,67 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- 自定义字体和大小 -->
+<!-- 全局自定义字体 -->
+<!-- 引入 Google Fonts Cormorant Garamond -->
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
+
 <style>
-/* 全局字体为 Merriweather */
-body, h1, h2, h3, h4, h5, h6, p, li, a, span, div {
-  font-family: "Merriweather", serif !important;
+/* 全局字体 */
+body, p, li, a, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif;
   color: #333333;
   line-height: 1.6;
 }
 
-/* 标题大小 */
-h1 { font-size: 2.5rem; margin-top: 1.5em; margin-bottom: 0.5em; }
-h2 { font-size: 2rem; margin-top: 1.5em; margin-bottom: 0.5em; }
-h3 { font-size: 1.75rem; margin-top: 1.3em; margin-bottom: 0.5em; }
-h4 { font-size: 1.5rem; margin-top: 1.2em; margin-bottom: 0.4em; }
-h5 { font-size: 1.25rem; margin-top: 1em; margin-bottom: 0.4em; }
-h6 { font-size: 1rem; margin-top: 0.8em; margin-bottom: 0.3em; }
-
 /* 正文字体大小 */
-body, p, li {
+body, p, li, a {
   font-size: 16px;
 }
 
-/* 链接保持字体 */
-a, a:visited, a:hover, a:active {
-  font-family: "Merriweather", serif;
-  color: #1a0dab;
-  text-decoration: none;
+/* 标题字体大小和粗细 */
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+}
+h3 {
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 1.3em;
+  margin-bottom: 0.4em;
+}
+h4, h5, h6 {
+  font-weight: 500;
 }
 
-/* 响应式字体调整 */
+/* 导航栏字体 */
+.navbar, .nav-link {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 16px;
+}
+
+/* 响应式字体 */
 @media (max-width: 768px) {
-  body, p, li { font-size: 14px; }
-  h1 { font-size: 2rem; }
-  h2 { font-size: 1.75rem; }
-  h3 { font-size: 1.5rem; }
+  body, p, li, a {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+  h3 {
+    font-size: 18px;
+  }
 }
 </style>
-
-<!-- 引入 Google Fonts Merriweather -->
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap" rel="stylesheet">
 
 <!-- end custom head snippets -->
