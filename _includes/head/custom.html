@@ -20,35 +20,39 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- 自定义 Bodoni 字体全局样式 -->
+<!-- 自定义全站字体为 Futura -->
 <style>
-/* 全局字体：Bodoni */
-body, h1, h2, h3, h4, h5, h6, p, li, a, .nav-link, .navbar {
-  font-family: 'Bodoni Moda', 'Bodoni', Georgia, serif;
+/* 全站字体 */
+body, h1, h2, h3, h4, h5, h6, p, ul, li, a, span, div {
+  font-family: "Futura", "Trebuchet MS", Arial, sans-serif !important;
   color: #333333;
-  line-height: 1.6;
 }
 
-/* 标题可稍大一些 */
-h1 { font-size: 2.5rem; margin-top: 1.5em; margin-bottom: 0.5em; }
-h2 { font-size: 2rem; margin-top: 1.2em; margin-bottom: 0.4em; }
-h3 { font-size: 1.6rem; margin-top: 1em; margin-bottom: 0.3em; }
-
-/* 正文段落 */
-p, li {
-  font-size: 1rem;
+/* 标题加粗 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
-/* 响应式字体：小屏幕自动缩小 */
+/* 链接文字 */
+a {
+  text-decoration: none;
+  color: #1a0dab;
+}
+
+/* 响应式字体 */
 @media (max-width: 768px) {
-  body { font-size: 14px; }
-  h1 { font-size: 28px; }
-  h2 { font-size: 22px; }
-  h3 { font-size: 18px; }
+  body {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 22px;
+  }
 }
 </style>
-
-<!-- 引入 Google Fonts Bodoni Moda -->
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap" rel="stylesheet">
 
 <!-- end custom head snippets -->
