@@ -20,39 +20,40 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- 自定义字体：Libre Baskerville -->
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
-
+<!-- 自定义字体：全文 Futura，如果没有则回退到默认字体 -->
 <style>
-/* 全局字体设置 */
-body, h1, h2, h3, h4, h5, h6, p, li, a, .nav-link, .navbar {
-  font-family: 'Libre Baskerville', serif;
+/* 全站字体设置 */
+body, h1, h2, h3, h4, h5, h6, p, li, a, span, div, article, section {
+  font-family: "Futura", sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
   color: #333333;
 }
 
-/* 正文字号和行高 */
-body, p, li {
-  font-size: 16px;
-  line-height: 1.6;
+/* 响应式字体：小屏幕缩小字体 */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 22px;
+  }
 }
 
-/* 标题字号，可根据需求调整 */
-h1 { font-size: 36px; margin-top: 1.5em; margin-bottom: 0.5em; }
-h2 { font-size: 28px; margin-top: 1.4em; margin-bottom: 0.5em; }
-h3 { font-size: 24px; margin-top: 1.3em; margin-bottom: 0.5em; }
-h4 { font-size: 20px; margin-top: 1.2em; margin-bottom: 0.5em; }
-h5 { font-size: 18px; margin-top: 1.1em; margin-bottom: 0.5em; }
-h6 { font-size: 16px; margin-top: 1em; margin-bottom: 0.5em; }
+/* 可选：标题加粗 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
 
-/* 响应式字体 */
-@media (max-width: 768px) {
-  body, p, li { font-size: 14px; }
-  h1 { font-size: 28px; }
-  h2 { font-size: 22px; }
-  h3 { font-size: 20px; }
-  h4 { font-size: 18px; }
-  h5 { font-size: 16px; }
-  h6 { font-size: 14px; }
+/* 导航栏字体 */
+.navbar, .nav-link {
+  font-family: "Futura", sans-serif;
+  font-size: 16px;
 }
 </style>
 
