@@ -21,15 +21,15 @@ I am currently a second-year Ph.D. student in the School of Economics and Manage
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
-- Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\* (2025). [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003),  *Journal of Economy and Technology*.
+- Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003),  *Journal of Economy and Technology*.
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;">
   <li>Some discussions from <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
 </ul>
 
-- Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang (2024). [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu<sup>†</sup>\*, *Journal of Economy and Technology*.
+- Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang (2024), [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), *Journal of Economy and Technology*.
 
 # Working Papers
-- Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\* (2024). [Federated Learning and Free-Riding in a Competitive Market](https://arxiv.org/abs/2410.12723). 
+- Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\* (2024), [Federated Learning and Free-Riding in a Competitive Market](https://arxiv.org/abs/2410.12723). 
 
 
 # Educations
