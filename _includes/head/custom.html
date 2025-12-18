@@ -1,41 +1,69 @@
-<!-- 字体和超链接样式 -->
-<style>
-  /* 默认字体大小（电脑端）+1px */
-  body {
-    font-size: calc(1.02em);
-  }
+<head>
 
-  /* 手机端字体稍小 */
-  @media screen and (max-width: 768px) {
+  <!-- ===== Icons / Manifest（原样保留） ===== -->
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+  <link rel="manifest" href="images/site.webmanifest">
+
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
+  <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- Academicons -->
+  <link rel="stylesheet" href="assets/css/academicons.css"/>
+
+  <!-- ===== Font / Line-height / Link Style（新增，不影响其他） ===== -->
+  <style>
+    /* 电脑端：字体稍大 + 行距略紧 */
     body {
-      font-size: 0.9em;
+      font-size: calc(1.02em);
+      line-height: 1.4;
     }
-  }
 
-  /* 超链接默认不显示颜色 */
-  a {
-    color: inherit;
-    text-decoration: none; /* 可去掉下划线 */
-  }
-
-  /* 可选：悬停时显示颜色 */
-  a:hover {
-    color: #004080;
-  }
-</style>
-
-<!-- MathJax 配置 -->
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: { autoNumber: "all" }
-    },
-    tex2jax: {
-      inlineMath: [['$','$'], ["\\(","\\)"]],
-      processEscapes: true
+    /* 手机端：字体稍小 + 行距稍松 */
+    @media screen and (max-width: 768px) {
+      body {
+        font-size: 0.9em;
+        line-height: 1.4;
+      }
     }
-  });
-</script>
 
-<!-- MathJax 核心脚本 -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
+    /* 超链接默认不显示颜色 */
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* 悬停时显示稍亮的深暗蓝 */
+    a:hover {
+      color: #004080;
+    }
+
+    /* 明确不干扰 MathJax 行距 */
+    .MathJax {
+      line-height: normal;
+    }
+  </style>
+
+  <!-- ===== MathJax Config（必须在主脚本前） ===== -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      TeX: {
+        equationNumbers: { autoNumber: "all" }
+      },
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
+
+  <!-- ===== MathJax Core ===== -->
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML"
+    async>
+  </script>
+
+</head>
