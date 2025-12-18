@@ -1,33 +1,41 @@
+<!-- 字体和超链接样式 -->
 <style>
-  /* 基础样式：默认字体大小（适配平板或普通屏幕） */
+  /* 默认字体大小（电脑端）+1px */
   body {
-    font-size: 17px; 
-    line-height: 1.6;
+    font-size: calc(1em + 1px);
   }
 
-  /* 电脑端 (屏幕宽度大于 1024px)：字体再大一点点 */
-  @media screen and (min-width: 1024px) {
-    body {
-      font-size: 19px;
-    }
-  }
-
-  /* 手机端 (屏幕宽度小于 768px)：字体小一点 */
+  /* 手机端字体稍小 */
   @media screen and (max-width: 768px) {
     body {
-      font-size: 15px;
+      font-size: 0.9em;
     }
   }
 
-  /* 超链接样式：初始不显示颜色，继承正文颜色且去掉下划线（可选） */
+  /* 超链接默认不显示颜色 */
   a {
-    color: inherit; 
-    text-decoration: underline; /* 如果完全不想像链接，可以改为 none */
+    color: inherit;
+    text-decoration: none; /* 可去掉下划线 */
   }
 
-  /* 鼠标悬停在链接上时才变色 */
+  /* 可选：悬停时显示颜色 */
   a:hover {
-    color: #007bff; /* 变蓝，或者你可以改为其他明显颜色 */
-    text-decoration: underline;
+    color: #007bff;
   }
 </style>
+
+<!-- MathJax 配置 -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: { autoNumber: "all" }
+    },
+    tex2jax: {
+      inlineMath: [['$','$'], ["\\(","\\)"]],
+      processEscapes: true
+    }
+  });
+</script>
+
+<!-- MathJax 核心脚本 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML" async></script>
