@@ -22,43 +22,46 @@
 
 <!-- 自定义字体和大小 -->
 <style>
-/* 全局正文字体 */
-body {
-  font-family: "Georgia", Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+/* 全局使用 Georgia 字体 */
+body, h1, h2, h3, h4, h5, h6, p, li, a, span, div, article, section, nav {
+  font-family: "Georgia", serif !important;
   color: #333333;
 }
 
-/* 页面标题 */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Georgia", serif;
-  font-weight: 600;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+/* 基础字体大小 */
+body {
+  font-size: 16px;
+  line-height: 1.6;
 }
 
-/* 导航栏字体 */
+/* 标题字号 */
+h1 { font-size: 2.5rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h2 { font-size: 2rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h3 { font-size: 1.75rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h4 { font-size: 1.5rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h5 { font-size: 1.25rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h6 { font-size: 1rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+
+/* 导航栏文字 */
 .navbar, .nav-link {
-  font-family: "Georgia", sans-serif;
+  font-family: "Georgia", serif !important;
   font-size: 16px;
+}
+
+/* 列表项目 */
+ul, ol {
+  font-family: "Georgia", serif !important;
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 /* 响应式字体 */
 @media (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-  h1 {
-    font-size: 28px;
-  }
-  h2 {
-    font-size: 22px;
-  }
+  body { font-size: 14px; }
+  h1 { font-size: 28px; }
+  h2 { font-size: 22px; }
+  h3 { font-size: 20px; }
 }
 </style>
-
-<!-- 可选：引入 Google Fonts -->
-<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Georgia&display=swap" rel="stylesheet">
 
 <!-- end custom head snippets -->
