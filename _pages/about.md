@@ -35,7 +35,7 @@ I am currently a second-year Ph.D. student in the School of Economics and Manage
 # Educations
 - *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
-- 
+
 # Honors and Awards
 - *2024.12*, Best Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
 - *2024.06*, Outstanding Graduate of Beijing, China.
