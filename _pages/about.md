@@ -19,10 +19,6 @@ redirect_from:
 
 Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student in the School of Economics and Management at Beihang University. My research interests include online platforms, the economics of AI, the operations–marketing interface, and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling approaches.
 
-# Educations
-- *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
-- *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
-
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
@@ -35,6 +31,10 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student 
 
 # Working Papers
 - Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\* (2024), [Federated Learning and Free-Riding in a Competitive Market](https://arxiv.org/abs/2410.12723). 
+
+# Educations
+- *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
+- *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
 # Honors and Awards
 - *2024.12*, Best Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
