@@ -1,23 +1,36 @@
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="manifest" href="images/site.webmanifest">
+<!-- 自定义字体和大小 -->
+<style>
+/* 全站字体设置：默认字体大小（桌面端）稍微大一点 */
+body, h1, h2, h3, h4, h5, h6, p, li, a, span, div, article, section {
+  font-family: "Futura", sans-serif;
+  font-size: 17px;   /* 比之前大一点，桌面端 */
+  line-height: 1.6;
+  color: #666666;    /* 浅灰字体 */
+}
 
-<meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
+/* 标题加粗和间距 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
 
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+/* 导航栏字体 */
+.navbar, .nav-link {
+  font-family: "Futura", sans-serif;
+  font-size: 17px;
+}
 
-<!-- end custom head snippets -->
+/* 响应式字体：屏幕小于768px的设备（手机）缩小字体 */
+@media (max-width: 768px) {
+  body, .navbar, .nav-link {
+    font-size: 15px;  /* 手机端稍小 */
+  }
+  h1 {
+    font-size: 26px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
+</style>
