@@ -17,28 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Economics and Management at Beihang University. My current research focuses on AI strategy, platform economics, consumer search, and behavioral economics. Methodologically, I employ game theory and analytical modeling.
+I am currently a second-year Ph.D. student in the School of Economics and Management at Beihang University. My research interests include online platforms, the economics of AI, the operations–marketing interface, and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling approaches.
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
 - [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao\*,  *Journal of Economy and Technology* (2025).
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;">
-  <li>Discussed by <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
+  <li>Some discussion from <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
 </ul>
 
 - [LLM Technologies and Information Search](https://doi.org/10.1016/j.ject.2024.08.007), Lin Liu<sup>†</sup>\*, Jiajun Meng, Yongliang Yang, *Journal of Economy and Technology* (2024).
 
-# Working Paper
-- [Federated Learning and Free-riding in a Competitive Market](https://arxiv.org/abs/2410.12723), Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, Lin Liu\*. 
+# Working Papers
+- [Federated Learning and Free-Riding in a Competitive Market](https://arxiv.org/abs/2410.12723), Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, Lin Liu\*. 
 
-
-# Honors and Awards
-- *2024.06*, Outstanding Graduate of Beijing, China.
-- *2024.12*, Excellent Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
 
 # Educations
 - *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
+- 
+# Honors and Awards
+- *2024.06*, Outstanding Graduate of Beijing, China.
+- *2024.12*, Best Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
 
 # Academic Services
 - *2024.06 - present*, Managing Editor, *Journal of Economy and Technology*.
@@ -46,6 +46,7 @@ I am a Ph.D. student in Economics and Management at Beihang University. My curre
 # Presentations
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
 - *2024.12*, Shanghai, CMAU 2nd Academic Forum on Big Data Marketing.
+- *2025.07*, Hainan, POMS International Conference in China.
 
 ---
 
