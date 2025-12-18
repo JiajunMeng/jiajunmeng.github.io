@@ -1,5 +1,5 @@
 main:
-  - title: "About Me"
+  - title: "Home"
     url: "#about-me"
 
   - title: "Publications"
