@@ -7,13 +7,13 @@ main:
     url: "/#-publications"
 
   - title: "Working Paper"
-    url: "/#-working-paper"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+    url: "/#-working-papers"
+    
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Academic Services"
     url: "/#-academic-services"
