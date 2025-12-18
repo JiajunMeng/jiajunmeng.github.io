@@ -4,8 +4,8 @@
 <link rel="manifest" href="images/site.webmanifest">
 
 <meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqP">
-<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqP">
+<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
@@ -20,44 +20,35 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
-<!-- 引入 Google Fonts: Cormorant SC -->
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-<!-- 自定义字体样式 -->
+<!-- 自定义 Bodoni 字体全局样式 -->
 <style>
-/* 全站使用 Cormorant SC */
+/* 全局字体：Bodoni */
 body, h1, h2, h3, h4, h5, h6, p, li, a, .nav-link, .navbar {
-  font-family: 'Cormorant SC', serif;
+  font-family: 'Bodoni Moda', 'Bodoni', Georgia, serif;
   color: #333333;
+  line-height: 1.6;
 }
 
-/* 正文基础大小和行高 */
-body, p, li {
-  font-size: 16px;
-  line-height: 1.7;
+/* 标题可稍大一些 */
+h1 { font-size: 2.5rem; margin-top: 1.5em; margin-bottom: 0.5em; }
+h2 { font-size: 2rem; margin-top: 1.2em; margin-bottom: 0.4em; }
+h3 { font-size: 1.6rem; margin-top: 1em; margin-bottom: 0.3em; }
+
+/* 正文段落 */
+p, li {
+  font-size: 1rem;
 }
 
-/* 标题大小 */
-h1 { font-size: 2.8rem; margin-top: 1.8em; margin-bottom: 0.6em; }
-h2 { font-size: 2.2rem; margin-top: 1.6em; margin-bottom: 0.5em; }
-h3 { font-size: 1.8rem; margin-top: 1.4em; margin-bottom: 0.5em; }
-h4 { font-size: 1.5rem; margin-top: 1.2em; margin-bottom: 0.4em; }
-h5 { font-size: 1.2rem; margin-top: 1em; margin-bottom: 0.4em; }
-h6 { font-size: 1rem; margin-top: 0.8em; margin-bottom: 0.3em; }
-
-/* 导航字体大小 */
-.navbar, .nav-link {
-  font-size: 16px;
-}
-
-/* 响应式字体调整 */
+/* 响应式字体：小屏幕自动缩小 */
 @media (max-width: 768px) {
-  body, p, li { font-size: 14px; }
+  body { font-size: 14px; }
   h1 { font-size: 28px; }
   h2 { font-size: 22px; }
-  h3 { font-size: 20px; }
-  h4 { font-size: 18px; }
-  h5 { font-size: 16px; }
-  h6 { font-size: 14px; }
+  h3 { font-size: 18px; }
 }
 </style>
+
+<!-- 引入 Google Fonts Bodoni Moda -->
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap" rel="stylesheet">
+
+<!-- end custom head snippets -->
