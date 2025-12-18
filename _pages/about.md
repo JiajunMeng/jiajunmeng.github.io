@@ -21,7 +21,7 @@ I am currently a second-year Ph.D. student in the School of Economics and Manage
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
-- [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003), Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao\*,  *Journal of Economy and Technology* (2025).
+- Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\* (2025). [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003),  *Journal of Economy and Technology*.
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;">
   <li>Some discussions from <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
 </ul>
