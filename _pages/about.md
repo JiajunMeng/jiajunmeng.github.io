@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student in the School of Economics and Management at Beihang University. My research interests include online platforms, the economics of AI, the operations–marketing interface, and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling approaches.
 
-# Publications 
+## Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
 - Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\* (2025), [Federated Learning and Information Sharing between Competitors with Different Training Effectiveness](https://doi.org/10.1016/j.ject.2024.12.003),  *Journal of Economy and Technology*.
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;">
