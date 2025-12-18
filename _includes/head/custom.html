@@ -1,33 +1,33 @@
-<!-- 自定义字体大小调整 -->
 <style>
-/* 桌面端：默认字体稍微大一点 */
-body, h1, h2, h3, h4, h5, h6, p, li, a, span, div, article, section {
-  font-size: 17px;  /* 比网页默认大一点 */
-  line-height: 1.6; /* 保持行高 */
-}
-
-/* 标题加粗和间距 */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 600;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-}
-
-/* 导航栏字体大小 */
-.navbar, .nav-link {
-  font-size: 17px;
-}
-
-/* 手机端（屏幕小于768px）：字体稍小 */
-@media (max-width: 768px) {
-  body, .navbar, .nav-link {
-    font-size: 11px;  /* 手机端稍小 */
+  /* 基础样式：默认字体大小（适配平板或普通屏幕） */
+  body {
+    font-size: 17px; 
+    line-height: 1.6;
   }
-  h1 {
-    font-size: 13px;
+
+  /* 电脑端 (屏幕宽度大于 1024px)：字体再大一点点 */
+  @media screen and (min-width: 1024px) {
+    body {
+      font-size: 19px;
+    }
   }
-  h2 {
-    font-size: 13px;
+
+  /* 手机端 (屏幕宽度小于 768px)：字体小一点 */
+  @media screen and (max-width: 768px) {
+    body {
+      font-size: 15px;
+    }
   }
-}
+
+  /* 超链接样式：初始不显示颜色，继承正文颜色且去掉下划线（可选） */
+  a {
+    color: inherit; 
+    text-decoration: underline; /* 如果完全不想像链接，可以改为 none */
+  }
+
+  /* 鼠标悬停在链接上时才变色 */
+  a:hover {
+    color: #007bff; /* 变蓝，或者你可以改为其他明显颜色 */
+    text-decoration: underline;
+  }
 </style>
