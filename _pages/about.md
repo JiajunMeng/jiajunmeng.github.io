@@ -37,16 +37,18 @@ I am currently a second-year Ph.D. student in the School of Economics and Manage
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 - 
 # Honors and Awards
-- *2024.06*, Outstanding Graduate of Beijing, China.
 - *2024.12*, Best Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
+- *2024.06*, Outstanding Graduate of Beijing, China.
 
 # Academic Services
 - *2024.06 - present*, Managing Editor, *Journal of Economy and Technology*.
 
 # Presentations
-- *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
-- *2024.12*, Shanghai, CMAU 2nd Academic Forum on Big Data Marketing.
 - *2025.07*, Hainan, POMS International Conference in China.
+- *2024.12*, Shanghai, CMAU 2nd Academic Forum on Big Data Marketing.
+- *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
+
+
 
 ---
 
