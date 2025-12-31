@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student in the School of Economics and Management at Beihang University. My research interests include online platforms, the economics of AI, the operations–marketing interface, and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling approaches.
+Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student in the School of Economics and Management at Beihang University. My research interests include online platforms, the economics of AI, the operations–marketing interface, and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling.
 
 
 # Publications 
