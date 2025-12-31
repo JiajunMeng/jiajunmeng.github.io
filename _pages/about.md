@@ -41,8 +41,8 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am a second-year PhD student 
 - *2024.06*, Outstanding Graduate of Beijing, China.
 
 # Academic Services
-- *2024.06 - present*, Managing Editor, *Journal of Economy and Technology*.
-- Ad-hoc Reviewer: *Journal of Systems Science and Systems Engineering*.
+- *2024.06 - present*, Managing Editor, Journal of Economy and Technology.
+- Ad-hoc Reviewer: Journal of Systems Science and Systems Engineering.
 
 # Presentations
 - *2025.07*, Hainan, POMS International Conference in China.
