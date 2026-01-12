@@ -24,12 +24,12 @@ My research investigates quantitative marketing and the marketing–operations i
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
-- Meng, Jiajun<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\*. "[Federated Learning with Free-Riding in a Duopoly Market.](https://doi.org/10.1007/978-981-95-5164-4_1)" *Proceedings of the IJCAI MNet Workshop*, 2025. (Lead Article).
-- Meng, Jiajun<sup>†</sup>, Jing Chen, and Dongfang Zhao\*. "[Federated Learning and Information Sharing between Competitors with Different Training Effectiveness.](https://doi.org/10.1016/j.ject.2024.12.003)" *Journal of Economy and Technology* (2025). (Lead Article).
+- Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\*. "[Federated Learning with Free-Riding in a Duopoly Market.](https://doi.org/10.1007/978-981-95-5164-4_1)" *Mechanism Design in Social Networks, IJCAI 2025*. \<Lead Article\>.
+- Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\*. "[Federated Learning and Information Sharing between Competitors with Different Training Effectiveness.](https://doi.org/10.1016/j.ject.2024.12.003)" *Journal of Economy and Technology* (2025). \<Lead Article\>.
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;line-height: 0.1; margin-top: 0.1em;">
   <li>Some discussions from <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
 </ul>
-- Liu, Lin<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang. "[LLM Technologies and Information Search.](https://doi.org/10.1016/j.ject.2024.08.007)" *Journal of Economy and Technology* (2024).
+- Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang. "[LLM Technologies and Information Search.](https://doi.org/10.1016/j.ject.2024.08.007)" *Journal of Economy and Technology* (2024).
 
 # Working Papers
 - Currently unavailable.
