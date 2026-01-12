@@ -14,16 +14,15 @@
   <!-- Academicons -->
   <link rel="stylesheet" href="assets/css/academicons.css"/>
 
-  <!-- ===== Font / Line-height / Link Style（新增，不影响其他） ===== -->
+  <!-- ===== Font / Line-height / Link Style ===== -->
   <style>
     /* 全局文字样式 */
     body {
       font-size: calc(1.02em);
       line-height: 1.4;
-      text-align: justify;       /* 两端对齐 */
-      text-justify: inter-word;  /* 单词间距自然 */
       margin: 0;
       padding: 0;
+      font-family: "Times New Roman", serif;
     }
 
     /* 响应式：手机端稍小字体 */
@@ -34,17 +33,23 @@
       }
     }
 
-    /* 内容容器，限制行宽，居中 */
+    /* 内容容器 */
     .content {
-      max-width: 800px;       /* 视觉舒适的行宽 */
+      max-width: 700px;           /* 视觉舒适的行宽 */
       margin: 0 auto;
-      padding: 0 1em;         /* 手机端左右留白 */
+      padding: 0 1em;             /* 手机端左右留白 */
+      text-align: justify;         /* 两端对齐 */
+      text-justify: inter-word;    /* 单词间距自然 */
+      hyphens: auto;               /* 英文自动断字 */
+      -webkit-hyphens: auto;
+      -moz-hyphens: auto;
+      word-break: break-word;      /* 兼容中文或长单词 */
     }
 
     /* 段落样式 */
     p {
-      text-align-last: left;  /* 段落最后一行左对齐，更自然 */
-      margin-bottom: 1em;     /* 段落间距 */
+      text-align-last: left;       /* 段落最后一行左对齐，更自然 */
+      margin-bottom: 1em;          /* 段落间距 */
     }
 
     /* 超链接默认不改变文字颜色 */
@@ -53,12 +58,12 @@
       text-decoration: none;
     }
 
-    /* 悬停时显示稍亮的深暗蓝 */
+    /* 超链接悬停效果 */
     a:hover {
       color: #000000;
     }
 
-    /* MathJax 不受影响 */
+    /* MathJax 不干扰行距 */
     .MathJax {
       line-height: normal;
     }
