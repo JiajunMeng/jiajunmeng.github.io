@@ -37,7 +37,7 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 - *2020.09 - 2024.06*, BSc, Beihang University, Information Management and Information System.
 
 # Honors and Awards
-- *2024.12*, Best Paper Award, CMAU 2nd Academic Forum on Big Data Marketing.
+- *2024.12*, Best Paper Award, CMAU 2nd Big Data Marketing Forum.
 - *2024.06*, Outstanding Graduate of Beijing, China.
 
 # Academic Services
@@ -46,7 +46,7 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 
 # Presentations
 - *2025.07*, Hainan, POMS International Conference in China.
-- *2024.12*, Shanghai, 2nd Academic Forum on Big Data Marketing, Chinese Marketing Association of Universities (CMAU).
+- *2024.12*, Shanghai, 2nd Big Data Marketing Forum, Chinese Marketing Association of Universities (CMAU).
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
 
 
