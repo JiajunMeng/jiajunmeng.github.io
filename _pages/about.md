@@ -46,7 +46,7 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 
 # Presentations
 - *2025.07*, Hainan, POMS International Conference in China.
-- *2024.12*, Shanghai, Chinese Marketing Association of Universities (CMAU) 2nd Academic Forum on Big Data Marketing.
+- *2024.12*, Shanghai, 2nd Academic Forum on Big Data Marketing, Chinese Marketing Association of Universities (CMAU).
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
 
 
