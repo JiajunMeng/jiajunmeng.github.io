@@ -16,17 +16,19 @@
 
   <!-- ===== Font / Line-height / Link Style（新增，不影响其他） ===== -->
   <style>
-    /* 电脑端：字体稍大 + 行距略紧 */
+    /* 电脑端：字体稍大 + 行距略紧 + 全局两端对齐 */
     body {
       font-size: calc(1.02em);
       line-height: 1.4;
+      text-align: justify;       /* 全局两端对齐 */
     }
 
-    /* 手机端：字体稍小 + 行距稍松 */
+    /* 手机端：字体稍小 + 行距稍松 + 全局两端对齐 */
     @media screen and (max-width: 768px) {
       body {
         font-size: 0.9em;
         line-height: 1.4;
+        text-align: justify;     /* 手机端也两端对齐 */
       }
     }
 
@@ -44,6 +46,11 @@
     /* 明确不干扰 MathJax 行距 */
     .MathJax {
       line-height: normal;
+    }
+
+    /* 段落最后一行也两端对齐（可选） */
+    p {
+      text-align-last: justify;
     }
   </style>
 
