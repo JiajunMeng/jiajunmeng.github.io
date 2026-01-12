@@ -16,23 +16,38 @@
 
   <!-- ===== Font / Line-height / Link Style（新增，不影响其他） ===== -->
   <style>
-    /* 电脑端：字体稍大 + 行距略紧 + 全局两端对齐 */
+    /* 全局文字样式 */
     body {
       font-size: calc(1.02em);
       line-height: 1.4;
-      text-align: justify;       /* 全局两端对齐 */
+      text-align: justify;       /* 两端对齐 */
+      text-justify: inter-word;  /* 单词间距自然 */
+      margin: 0;
+      padding: 0;
     }
 
-    /* 手机端：字体稍小 + 行距稍松 + 全局两端对齐 */
+    /* 响应式：手机端稍小字体 */
     @media screen and (max-width: 768px) {
       body {
         font-size: 0.9em;
         line-height: 1.4;
-        text-align: justify;     /* 手机端也两端对齐 */
       }
     }
 
-    /* 超链接默认不显示颜色 */
+    /* 内容容器，限制行宽，居中 */
+    .content {
+      max-width: 800px;       /* 视觉舒适的行宽 */
+      margin: 0 auto;
+      padding: 0 1em;         /* 手机端左右留白 */
+    }
+
+    /* 段落样式 */
+    p {
+      text-align-last: left;  /* 段落最后一行左对齐，更自然 */
+      margin-bottom: 1em;     /* 段落间距 */
+    }
+
+    /* 超链接默认不改变文字颜色 */
     a {
       color: inherit;
       text-decoration: none;
@@ -43,14 +58,9 @@
       color: #000000;
     }
 
-    /* 明确不干扰 MathJax 行距 */
+    /* MathJax 不受影响 */
     .MathJax {
       line-height: normal;
-    }
-
-    /* 段落最后一行也两端对齐（可选） */
-    p {
-      text-align-last: justify;
     }
   </style>
 
