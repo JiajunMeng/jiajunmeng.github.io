@@ -28,12 +28,12 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 
 # Publications 
 († denotes first/co-first authors, * denotes corresponding authors)
-- "[Federated Learning with Free-Riding in a Duopoly Market.](https://doi.org/10.1007/978-981-95-5164-4_1)" Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\*. *Mechanism Design in Social Networks, IJCAI 2025*. \<Lead Article\>.
-- "[Federated Learning and Information Sharing between Competitors with Different Training Effectiveness.](https://doi.org/10.1016/j.ject.2024.12.003)" Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\*. *Journal of Economy and Technology* (2025). \<Lead Article\>.
+1. "[Federated Learning with Free-Riding in a Duopoly Market.](https://doi.org/10.1007/978-981-95-5164-4_1)" Jiajun Meng<sup>†</sup>, Jing Chen, Dongfang Zhao, and Lin Liu\*. *Mechanism Design in Social Networks, IJCAI 2025*. \<Lead Article\>.
+2. "[Federated Learning and Information Sharing between Competitors with Different Training Effectiveness.](https://doi.org/10.1016/j.ject.2024.12.003)" Jiajun Meng<sup>†</sup>, Jing Chen, and Dongfang Zhao\*. *Journal of Economy and Technology* (2025). \<Lead Article\>.
 <ul style="list-style-type: square; list-style-position: inside; padding-left: 40px;line-height: 0.1; margin-top: 0.1em;">
   <li>Some discussions from <a href="https://thefinancialanalyst.net/2025/01/19/federated-learning-emerges-as-key-to-collaboration-in-competitive-markets/">The Financial Analyst</a>.</li>
 </ul>
-- "[LLM Technologies and Information Search.](https://doi.org/10.1016/j.ject.2024.08.007)" Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang. *Journal of Economy and Technology* (2024).
+3. "[LLM Technologies and Information Search.](https://doi.org/10.1016/j.ject.2024.08.007)" Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang. *Journal of Economy and Technology* (2024).
 
 # Working Papers
 - Currently unavailable.
