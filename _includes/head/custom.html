@@ -45,6 +45,19 @@
     .MathJax {
       line-height: normal;
     }
+
+    /* 统一有序列表和无序列表缩进与对齐 */
+  ol, ul {
+    padding-left: 1.5em;         /* 控制缩进距离 */
+    margin: 0 0 1em 0;           /* 列表上下间距 */
+    list-style-position: inside;  /* marker 在内容内，数字和短横线左对齐 */
+  }
+
+  /* 让数字宽度固定，保证多位数和短横线对齐 */
+  ol li::marker,
+  ul li::marker {
+    font-variant-numeric: tabular-nums;
+  }
   </style>
 
   <!-- ===== MathJax Config（必须在主脚本前） ===== -->
