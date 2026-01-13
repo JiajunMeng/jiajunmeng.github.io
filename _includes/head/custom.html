@@ -20,6 +20,7 @@
     body {
       font-size: calc(1.02em);
       line-height: 1.4;
+      text-align: justify; /* 全局两端对齐 */
     }
 
     /* 手机端：字体稍小 + 行距稍松 */
@@ -27,6 +28,7 @@
       body {
         font-size: 0.9em;
         line-height: 1.4;
+        text-align: justify; /* 手机端也两端对齐 */
       }
     }
 
@@ -46,25 +48,36 @@
       line-height: normal;
     }
 
-    /* ===== 列表零缩进设置 ===== */
-    /* 无序列表和有序列表：移除左边距和内边距 */
+    /* ===== 列表缩进与间距设置 ===== */
+    /* 一级列表：轻微左缩进 */
     ul, ol {
-      margin-left: 0;
+      margin-left: 1.2em;
       padding-left: 0;
-      list-style-position: inside; /* 标记符号放在内容流内部 */
+      list-style-position: outside; /* 标记符号在缩进外侧 */
     }
 
-    /* 列表项：确保零缩进 */
+    /* 一级列表项：正常间距 */
     li {
-      margin-left: 0;
-      padding-left: 0.5em;
+      margin-bottom: 0.4em; /* 一级列表项之间的间距 */
     }
 
-    /* 如果需要嵌套列表有轻微缩进，可取消下面注释 */
+    /* 二级列表：更紧凑的间距 */
     ul ul, ol ul, ul ol, ol ol {
-      padding-left: 1em;
+      margin-top: 0.2em; /* 二级列表与上一级内容的距离 */
+      margin-bottom: 0.2em;
+      margin-left: 1.5em; /* 二级列表相对一级的缩进 */
     }
 
+    /* 二级列表项：更小的间距 */
+    ul ul li, ol ul li, ul ol li, ol ol li {
+      margin-bottom: 0.15em; /* 二级列表项之间的间距 */
+      line-height: 1.3; /* 二级列表行高稍紧 */
+    }
+
+    /* 移除最后一个列表项的底部间距，避免额外空白 */
+    li:last-child {
+      margin-bottom: 0;
+    }
   </style>
 
   <!-- ===== MathJax Config（必须在主脚本前） ===== -->
