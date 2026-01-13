@@ -14,7 +14,7 @@
   <!-- Academicons -->
   <link rel="stylesheet" href="assets/css/academicons.css"/>
 
-  <!-- ===== Font / Line-height / Link Style（新增，不影响其他） ===== -->
+  <!-- ===== Font / Line-height / Link Style / List Indent（新增） ===== -->
   <style>
     /* 电脑端：字体稍大 + 行距略紧 */
     body {
@@ -46,18 +46,26 @@
       line-height: normal;
     }
 
-    /* 统一有序列表和无序列表缩进与对齐 */
-  ol, ul {
-    padding-left: 0em;         /* 控制缩进距离 */
-    margin: 0 0 1em 0;           /* 列表上下间距 */
-    list-style-position: inside;  /* marker 在内容内，数字和短横线左对齐 */
-  }
+    /* ===== 列表零缩进设置 ===== */
+    /* 无序列表和有序列表：移除左边距和内边距 */
+    ul, ol {
+      margin-left: 0;
+      padding-left: 0;
+      list-style-position: inside; /* 标记符号放在内容流内部 */
+    }
 
-  /* 让数字宽度固定，保证多位数和短横线对齐 */
-  ol li::marker,
-  ul li::marker {
-    font-variant-numeric: tabular-nums;
-  }
+    /* 列表项：确保零缩进 */
+    li {
+      margin-left: 0;
+      padding-left: 0;
+    }
+
+    /* 如果需要嵌套列表有轻微缩进，可取消下面注释 */
+    /*
+    ul ul, ol ul, ul ol, ol ol {
+      padding-left: 1em;
+    }
+    */
   </style>
 
   <!-- ===== MathJax Config（必须在主脚本前） ===== -->
