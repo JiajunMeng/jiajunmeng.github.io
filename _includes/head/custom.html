@@ -20,7 +20,11 @@
     body {
       font-size: calc(1.02em);
       line-height: 1.4;
-      text-align: justify; /* 全局两端对齐 */
+      text-align: justify; /* 两端对齐 */
+      text-justify: inter-character; /* 中文优化：字符间均匀分布 */
+      text-align-last: left; /* 最后一行左对齐，避免拉伸 */
+      hyphens: auto; /* 英文单词断字优化 */
+      word-spacing: 0; /* 防止单词间距过大 */
     }
 
     /* 手机端：字体稍小 + 行距稍松 */
@@ -28,7 +32,11 @@
       body {
         font-size: 0.9em;
         line-height: 1.4;
-        text-align: justify; /* 手机端也两端对齐 */
+        text-align: justify;
+        text-justify: inter-character;
+        text-align-last: left;
+        hyphens: auto;
+        word-spacing: 0;
       }
     }
 
