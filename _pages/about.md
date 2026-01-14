@@ -23,7 +23,7 @@ h1 { font-size: 18px; }
 }
 </style>
 
-Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year PhD student in the School of Economics and Management at Beihang University. My research investigates quantitative marketing and the marketing–operations interface, with a particular focus on online platforms and the application of AI in business. In addition, I am also interested in some topics in microeconomics and industrial organization, such as consumer search and behavioral economics. Methodologically, I employ game-theoretic and analytical modeling.
+Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year PhD student in the School of Economics and Management at Beihang University. My research investigates quantitative marketing and the marketing–operations interface, with a particular focus on online platforms and the application of AI in business. In addition, I am also interested in some topics in microeconomics and industrial organization, such as consumer search and behavioral economics. Methodologically, I employ analytical and game-theoretic modeling.
 
 
 # Publications 
