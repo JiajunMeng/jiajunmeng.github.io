@@ -49,6 +49,7 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 - Ad-hoc Reviewer: Journal of Systems Science and Systems Engineering.
 
 # Presentations
+- *2025.08*, Guangzhou, 34th International Joint Conference on Artificial Intelligence (IJCAI).
 - *2025.07*, Hainan, POMS International Conference in China.
 - *2024.12*, Shanghai, 2nd Big Data Marketing Forum, Chinese Marketing Association of Universities (CMAU).
 - *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
