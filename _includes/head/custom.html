@@ -1,6 +1,6 @@
 <head>
 
-  <!-- ===== Icons / Manifest ===== -->
+  <!-- ===== Icons / Manifest（原样保留） ===== -->
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
@@ -11,151 +11,123 @@
   <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
   <meta name="theme-color" content="#ffffff">
 
-  <!-- ===== Academicons ===== -->
+  <!-- Academicons -->
   <link rel="stylesheet" href="assets/css/academicons.css"/>
 
-  <!-- ===== TeX Gyre Schola ===== -->
-  <link href="https://cdn.jsdelivr.net/npm/@fontsource/tex-gyre-schola/index.css" rel="stylesheet">
-
-  <!-- ===== Typography & Layout Optimization ===== -->
+  <!-- ===== Font / Line-height / Link Style / List Indent（新增） ===== -->
   <style>
-
-    /* ===== Global Layout ===== */
-
+    /* 电脑端：字体稍大 + 行距略紧 */
     body {
-      font-family: "TeX Gyre Schola", serif;
-      font-size: 1.05em;
-      line-height: 1.55;
-      max-width: 820px;
-      margin: 0 auto;
-      padding: 40px 24px;
-      text-align: justify;
-      text-justify: inter-word;
-      text-align-last: left;
-      word-spacing: normal;
-      letter-spacing: 0.01em;
-      color: #111;
-      background-color: #ffffff;
+      font-size: calc(1.02em);
+      line-height: 1.5;
+      text-align: justify; /* 两端对齐 */
+      text-justify: inter-word; /* 只调整单词间距，不调整字符间距 */
+      text-align-last: left; /* 最后一行左对齐 */
+      word-spacing: normal; /* 保持正常单词间距 */
+      letter-spacing: normal; /* 不调整字符间距 */
     }
 
-    /* ===== Mobile Optimization ===== */
-
+    /* 手机端：字体稍小 + 行距稍松 */
     @media screen and (max-width: 768px) {
       body {
-        font-size: 0.95em;
-        line-height: 1.5;
-        padding: 28px 18px;
+        font-size: 0.9em;
+        line-height: 1.4;
+        text-align: justify;
+        text-justify: inter-word;
+        text-align-last: left;
+        word-spacing: normal;
+        letter-spacing: normal;
       }
     }
 
-    /* ===== Headings (Academic Minimal Style) ===== */
-
-    h1 {
-      font-size: 1.8em;
-      font-weight: 500;
-      margin-top: 0;
-      margin-bottom: 0.8em;
-      letter-spacing: 0.02em;
-    }
-
-    h2 {
-      font-size: 1.35em;
-      font-weight: 500;
-      margin-top: 2em;
-      margin-bottom: 0.6em;
-    }
-
-    h3 {
-      font-size: 1.15em;
-      font-weight: 500;
-      margin-top: 1.5em;
-      margin-bottom: 0.5em;
-    }
-
-    /* ===== Paragraph Rhythm ===== */
-
+    /* 段落优化：限制过度拉伸 */
     p {
-      margin-top: 0;
-      margin-bottom: 0.9em;
+      max-width: 100%; /* 确保段落不会过窄导致过度拉伸 */
     }
 
-    p:has(br),
-    p.short {
+    /* 针对可能过度拉伸的短段落，使用左对齐 */
+    p:has(br), /* 包含换行的段落 */
+    p.short {  /* 可手动添加 short 类的短段落 */
       text-align: left;
     }
 
-    /* ===== Link Style (Subtle) ===== */
-
+    /* 超链接默认不显示颜色 */
     a {
       color: inherit;
       text-decoration: none;
-      border-bottom: 1px solid rgba(0,0,0,0.2);
     }
 
+    /* 悬停时显示稍亮的深暗蓝 */
     a:hover {
-      border-bottom: 1px solid rgba(0,0,0,0.5);
+      color: #5b7c99;
     }
 
-    /* ===== Lists (Compact Academic Style) ===== */
-
-    ul, ol {
-      margin-top: 0.4em;
-      margin-bottom: 0.8em;
-      margin-left: 1.3em;
-      padding-left: 0;
-    }
-
-    ul > li,
-    ol > li {
-      margin-bottom: 0.3em;
-      line-height: 1.5;
-    }
-
-    ul ul,
-    ol ul,
-    ul ol,
-    ol ol {
-      margin-top: 0.3em;
-      margin-bottom: 0.3em;
-      margin-left: 1.4em;
-    }
-
-    /* ===== MathJax Adjustment ===== */
-
+    /* 明确不干扰 MathJax 行距 */
     .MathJax {
-      line-height: normal !important;
-      font-size: 1em !important;
+      line-height: normal;
     }
 
-    mjx-container[jax="CHTML"] {
-      font-size: 1em !important;
-    }
+    /* ===== 列表缩进与间距（优化版） ===== */
 
-    /* ===== Horizontal Rule (Section Separator) ===== */
+/* 一级列表整体 */
+ul, ol {
+  margin-top: 0.15em;
+  margin-bottom: 0.15em;
+  margin-left: 1.2em;
+  padding-left: 0;
+  list-style-position: outside;
+}
 
-    hr {
-      border: none;
-      border-top: 1px solid #ddd;
-      margin: 2.5em 0;
-    }
+/* 一级列表项（关键） */
+ul > li,
+ol > li {
+  margin-bottom: 0.23em;   /* 明显更紧 */
+  line-height: 1.47;       /* 覆盖 body 的 1.5 */
+}
 
+/* 最后一个一级列表项不留空 */
+ul > li:last-child,
+ol > li:last-child {
+  margin-bottom: 0;
+}
+
+/* 二级及以下列表 */
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-top: 0.15em;
+  margin-bottom: 0.1em;
+  margin-left: 1.4em;
+}
+
+/* 二级列表项 */
+ul ul > li,
+ol ul > li,
+ul ol > li,
+ol ol > li {
+  margin-bottom: 0.15em;
+  line-height: 1.3;
+}
   </style>
 
-  <!-- ===== MathJax 3 Configuration ===== -->
-  <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        tags: 'all'
+  <!-- ===== MathJax Config（必须在主脚本前） ===== -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      TeX: {
+        equationNumbers: { autoNumber: "all" }
       },
-      chtml: {
-        matchFontHeight: false,
-        fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/tex'
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
       }
-    };
+    });
   </script>
 
   <!-- ===== MathJax Core ===== -->
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML"
+    async>
+  </script>
 
 </head>
