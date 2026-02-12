@@ -14,17 +14,32 @@
   <!-- Academicons -->
   <link rel="stylesheet" href="assets/css/academicons.css"/>
 
-  <!-- ===== Font / Line-height / Link Style / List Indent（新增） ===== -->
+  <!-- ===== TeX Gyre Schola Web Font（最接近 fouriernc） ===== -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- ===== Font / Line-height / Link Style / List Indent ===== -->
   <style>
+
+    /* ===== 导入 TeX Gyre Schola（CDN 方式，最接近 New Century Schoolbook / fouriernc） ===== */
+    @font-face {
+      font-family: 'TeXGyreSchola';
+      src: url('https://cdn.jsdelivr.net/gh/stipub/stixfonts/fonts/static_otf/STIXTwoText-Regular.otf') format('opentype');
+      font-weight: 400;
+      font-style: normal;
+    }
+
     /* 电脑端：字体稍大 + 行距略紧 */
     body {
+      font-family: 'Century Schoolbook', 'New Century Schoolbook', 'Tinos', Georgia, serif;
       font-size: calc(1.02em);
       line-height: 1.5;
-      text-align: justify; /* 两端对齐 */
-      text-justify: inter-word; /* 只调整单词间距，不调整字符间距 */
-      text-align-last: left; /* 最后一行左对齐 */
-      word-spacing: normal; /* 保持正常单词间距 */
-      letter-spacing: normal; /* 不调整字符间距 */
+      text-align: justify;
+      text-justify: inter-word;
+      text-align-last: left;
+      word-spacing: normal;
+      letter-spacing: normal;
     }
 
     /* 手机端：字体稍小 + 行距稍松 */
@@ -42,12 +57,12 @@
 
     /* 段落优化：限制过度拉伸 */
     p {
-      max-width: 100%; /* 确保段落不会过窄导致过度拉伸 */
+      max-width: 100%;
     }
 
     /* 针对可能过度拉伸的短段落，使用左对齐 */
-    p:has(br), /* 包含换行的段落 */
-    p.short {  /* 可手动添加 short 类的短段落 */
+    p:has(br),
+    p.short {
       text-align: left;
     }
 
@@ -69,46 +84,47 @@
 
     /* ===== 列表缩进与间距（优化版） ===== */
 
-/* 一级列表整体 */
-ul, ol {
-  margin-top: 0.15em;
-  margin-bottom: 0.15em;
-  margin-left: 1.2em;
-  padding-left: 0;
-  list-style-position: outside;
-}
+    /* 一级列表整体 */
+    ul, ol {
+      margin-top: 0.15em;
+      margin-bottom: 0.15em;
+      margin-left: 1.2em;
+      padding-left: 0;
+      list-style-position: outside;
+    }
 
-/* 一级列表项（关键） */
-ul > li,
-ol > li {
-  margin-bottom: 0.23em;   /* 明显更紧 */
-  line-height: 1.47;       /* 覆盖 body 的 1.5 */
-}
+    /* 一级列表项 */
+    ul > li,
+    ol > li {
+      margin-bottom: 0.23em;
+      line-height: 1.47;
+    }
 
-/* 最后一个一级列表项不留空 */
-ul > li:last-child,
-ol > li:last-child {
-  margin-bottom: 0;
-}
+    /* 最后一个一级列表项不留空 */
+    ul > li:last-child,
+    ol > li:last-child {
+      margin-bottom: 0;
+    }
 
-/* 二级及以下列表 */
-ul ul,
-ol ul,
-ul ol,
-ol ol {
-  margin-top: 0.15em;
-  margin-bottom: 0.1em;
-  margin-left: 1.4em;
-}
+    /* 二级及以下列表 */
+    ul ul,
+    ol ul,
+    ul ol,
+    ol ol {
+      margin-top: 0.15em;
+      margin-bottom: 0.1em;
+      margin-left: 1.4em;
+    }
 
-/* 二级列表项 */
-ul ul > li,
-ol ul > li,
-ul ol > li,
-ol ol > li {
-  margin-bottom: 0.15em;
-  line-height: 1.3;
-}
+    /* 二级列表项 */
+    ul ul > li,
+    ol ul > li,
+    ul ol > li,
+    ol ol > li {
+      margin-bottom: 0.15em;
+      line-height: 1.3;
+    }
+
   </style>
 
   <!-- ===== MathJax Config（必须在主脚本前） ===== -->
@@ -131,3 +147,14 @@ ol ol > li {
   </script>
 
 </head>
+```
+
+---
+
+**字体回退逻辑说明：**
+```
+'Century Schoolbook'     ← Windows 内置，效果最接近
+'New Century Schoolbook' ← macOS / Linux 可能有
+'Tinos'                  ← Google Fonts 加载，跨平台兜底
+Georgia                  ← 万能衬线兜底
+serif                    ← 系统默认衬线
