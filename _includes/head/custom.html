@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <title>FourierNC Style Page</title>
 
+  <!-- ===== Icons / Manifest ===== -->
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
@@ -14,131 +11,151 @@
   <meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
   <meta name="theme-color" content="#ffffff">
 
+  <!-- ===== Academicons ===== -->
   <link rel="stylesheet" href="assets/css/academicons.css"/>
 
-  <style>
-    /* 1. 定义字体堆栈：优先寻找 New Century Schoolbook 的替代品 */
-    :root {
-      /* fouriernc 对应的标准 Web 字体族 */
-      --font-fouriernc: "Century Schoolbook", "TeX Gyre Schola", "New Century Schoolbook", "Century Schoolbook L", Georgia, serif;
-    }
+  <!-- ===== TeX Gyre Schola ===== -->
+  <link href="https://cdn.jsdelivr.net/npm/@fontsource/tex-gyre-schola/index.css" rel="stylesheet">
 
-    /* 2. 基础页面样式 */
+  <!-- ===== Typography & Layout Optimization ===== -->
+  <style>
+
+    /* ===== Global Layout ===== */
+
     body {
-      /* 应用字体 */
-      font-family: var(--font-fouriernc);
-      
-      /* 电脑端：字体稍大（Century 族字宽较大，1.05em 视觉效果更好） */
+      font-family: "TeX Gyre Schola", serif;
       font-size: 1.05em;
-      line-height: 1.5;
-      color: #1a1a1a;
-      
+      line-height: 1.55;
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 40px 24px;
       text-align: justify;
       text-justify: inter-word;
       text-align-last: left;
       word-spacing: normal;
-      letter-spacing: normal;
-      background-color: #fff;
+      letter-spacing: 0.01em;
+      color: #111;
+      background-color: #ffffff;
     }
 
-    /* 手机端优化 */
+    /* ===== Mobile Optimization ===== */
+
     @media screen and (max-width: 768px) {
       body {
         font-size: 0.95em;
-        line-height: 1.45;
+        line-height: 1.5;
+        padding: 28px 18px;
       }
     }
 
-    /* 标题也要统一风格 */
-    h1, h2, h3, h4, h5, h6 {
-      font-family: var(--font-fouriernc);
-      font-weight: bold;
+    /* ===== Headings (Academic Minimal Style) ===== */
+
+    h1 {
+      font-size: 1.8em;
+      font-weight: 500;
+      margin-top: 0;
+      margin-bottom: 0.8em;
+      letter-spacing: 0.02em;
+    }
+
+    h2 {
+      font-size: 1.35em;
+      font-weight: 500;
+      margin-top: 2em;
+      margin-bottom: 0.6em;
+    }
+
+    h3 {
+      font-size: 1.15em;
+      font-weight: 500;
       margin-top: 1.5em;
+      margin-bottom: 0.5em;
     }
 
-    /* 段落优化 */
+    /* ===== Paragraph Rhythm ===== */
+
     p {
-      max-width: 100%;
+      margin-top: 0;
+      margin-bottom: 0.9em;
     }
 
-    /* 针对短段落或手动标记的短行，取消两端对齐防止拉伸过大 */
-    p:has(br), p.short {
+    p:has(br),
+    p.short {
       text-align: left;
     }
 
-    /* 超链接样式 */
+    /* ===== Link Style (Subtle) ===== */
+
     a {
       color: inherit;
       text-decoration: none;
-      border-bottom: 1px solid transparent;
-      transition: all 0.2s ease;
+      border-bottom: 1px solid rgba(0,0,0,0.2);
     }
 
     a:hover {
-      color: #5b7c99;
-      border-bottom: 1px solid #5b7c99;
+      border-bottom: 1px solid rgba(0,0,0,0.5);
     }
 
-    /* 明确不干扰 MathJax 行距 */
-    .MathJax, .MathJax_Display {
-      line-height: normal !important;
-      margin: 1em 0 !important;
-    }
+    /* ===== Lists (Compact Academic Style) ===== */
 
-    /* ===== 列表缩进与间距 ===== */
     ul, ol {
-      margin-top: 0.3em;
-      margin-bottom: 0.3em;
-      margin-left: 1.5em;
+      margin-top: 0.4em;
+      margin-bottom: 0.8em;
+      margin-left: 1.3em;
       padding-left: 0;
-      list-style-position: outside;
     }
 
-    li {
-      margin-bottom: 0.25em;
+    ul > li,
+    ol > li {
+      margin-bottom: 0.3em;
       line-height: 1.5;
     }
 
-    ul ul, ol ul, ul ol, ol ol {
-      margin-top: 0.2em;
-      margin-left: 1.5em;
+    ul ul,
+    ol ul,
+    ul ol,
+    ol ol {
+      margin-top: 0.3em;
+      margin-bottom: 0.3em;
+      margin-left: 1.4em;
     }
 
-    /* 列表项最后一个元素不留白 */
-    li:last-child {
-      margin-bottom: 0;
+    /* ===== MathJax Adjustment ===== */
+
+    .MathJax {
+      line-height: normal !important;
+      font-size: 1em !important;
     }
+
+    mjx-container[jax="CHTML"] {
+      font-size: 1em !important;
+    }
+
+    /* ===== Horizontal Rule (Section Separator) ===== */
+
+    hr {
+      border: none;
+      border-top: 1px solid #ddd;
+      margin: 2.5em 0;
+    }
+
   </style>
 
-  <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-      showProcessingMessages: false,
-      messageStyle: "none",
-      extensions: ["tex2jax.js"],
-      jax: ["input/TeX", "output/HTML-CSS"],
-      TeX: {
-        equationNumbers: { autoNumber: "all" },
-        extensions: ["AMSmath.js", "AMSsymbols.js"]
+  <!-- ===== MathJax 3 Configuration ===== -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        tags: 'all'
       },
-      tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        processEscapes: true
-      },
-      "HTML-CSS": {
-        availableFonts: ["TeX"], 
-        preferredFont: "TeX",
-        webFont: "TeX",
-        imageFont: null,
-        scale: 105, /* 稍微放大以匹配 Century Schoolbook 的视觉字重 */
-        linebreaks: { automatic: true }
+      chtml: {
+        matchFontHeight: false,
+        fontURL: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/tex'
       }
-    });
+    };
   </script>
 
-  <script
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML"
-    async>
-  </script>
+  <!-- ===== MathJax Core ===== -->
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 </head>
-</html>
