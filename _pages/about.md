@@ -49,10 +49,11 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 - Ad-hoc Reviewer: Journal of Systems Science and Systems Engineering.
 
 # Presentations
-- *2025.08*, Guangzhou, 34th International Joint Conference on Artificial Intelligence (IJCAI).
-- *2025.07*, Hainan, POMS International Conference in China.
-- *2024.12*, Shanghai, 2nd Big Data Marketing Forum, Chinese Marketing Association of Universities (CMAU).
-- *2024.12*, Wuhan, National Conference on Supply Chain and Operation Management (ISCOM).
+- *2026.06*, 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
+- *2025.08*, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, Guangdong, China.
+- *2025.07*, POMS International Conference in China, Danzhou, Hainan, China.
+- *2024.12*, 2nd CMAU Big Data Marketing Forum, Shanghai, China.
+- *2024.12*, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, Hubei, China.
 
 
 
@@ -61,5 +62,5 @@ Welcome! My name is Jiajun Meng (孟嘉俊), and I am currently a second-year Ph
 ---
 
 
-_**My Academic Genealogy**: Myself (Beihang) $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz_
+_**My Academic Genealogy**: Myself $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz_
 
