@@ -35,7 +35,7 @@ Welcome! My name is Jiajun Meng (孟嘉俊). I am a third-year Ph.D. student at 
 3. "[LLM Technologies and Information Search.](https://doi.org/10.1016/j.ject.2024.08.007)" Lin Liu<sup>†</sup>\*, Jiajun Meng, and Yongliang Yang. *Journal of Economy and Technology* (2024).
 
 # Working Papers
-- Currently unavailable.
+- Coming soon.
 
 # Educations
 - *2024.09 - present*, PhD, Beihang University, Management Science and Engineering.
