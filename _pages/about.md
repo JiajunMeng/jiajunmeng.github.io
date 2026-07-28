@@ -41,19 +41,19 @@ My research focuses on quantitative marketing and the marketing–operations int
 - Coming soon.
 
 # Honors and Awards
-- 2024.12, Best Paper Award, 2nd CMAU Big Data Marketing Forum.
-- 2024.06, Outstanding Graduate of Beijing, China.
+- 12/2024, Best Paper Award, 2nd CMAU Big Data Marketing Forum.
+- 06/2024, Outstanding Graduate of Beijing, China.
 
 # Academic Services
-- 2024.06 - present, Managing Editor, Journal of Economy and Technology.
+- 06/2024 - present, Managing Editor, Journal of Economy and Technology.
 - Referee for *Journal of Systems Science and Systems Engineering*.
 
 # Presentations
-- 2026.06, 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
-- 2025.08, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, China.
-- 2025.07, POMS International Conference in China, Danzhou, China.
-- 2024.12, 2nd CMAU Big Data Marketing Forum, Shanghai, China.
-- 2024.12, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, China.
+- 06/2026, 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
+- 08/2025, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, China.
+- 07/2025, POMS International Conference in China, Danzhou, China.
+- 12/2024, 2nd CMAU Big Data Marketing Forum, Shanghai, China.
+- 12/2024, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, China.
 
 
 
