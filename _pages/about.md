@@ -45,7 +45,7 @@ My research focuses on quantitative marketing and the marketing–operations int
 - 06/2024, Outstanding Graduate of Beijing, China.
 
 # Academic Services
-- 06/2024 - present, Managing Editor, Journal of Economy and Technology.
+- Managing Editor for *Journal of Economy and Technology* (06/2024-Present).
 - Referee for *Journal of Systems Science and Systems Engineering*.
 
 # Presentations
