@@ -25,7 +25,7 @@ h1 { font-size: 18px; }
 
 Hi! I am Jiajun Meng (孟嘉俊), a third-year Ph.D. student at the School of Economics and Management, Beihang University. I received my B.S. in Information Management and Information Systems from Beihang University in 2024.
 
-My research focuses on the area of quantitative marketing and the marketing–operations interface, with emphases on online platforms and AI-driven business applications. I also study topics in microeconomics and industrial organization, including consumer search and behavioral economics. I use analytical and game-theoretic modeling in my research.
+My research focuses on the area of quantitative marketing and marketing–operations interface, with emphases on online platforms and AI-driven business applications. I also study topics in microeconomics and industrial organization, including consumer search and behavioral economics. I use analytical and game-theoretic modeling in my research.
 
 
 
