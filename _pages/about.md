@@ -46,14 +46,14 @@ My research focuses on quantitative marketing and the marketing–operations int
 
 # Academic Services
 - *2024.06 - present*, Managing Editor, Journal of Economy and Technology.
-- Ad-hoc Reviewer: Journal of Systems Science and Systems Engineering.
+- Referee for *Journal of Systems Science and Systems Engineering*.
 
 # Presentations
 - *2026.06*, 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
-- *2025.08*, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, Guangdong, China.
-- *2025.07*, POMS International Conference in China, Danzhou, Hainan, China.
+- *2025.08*, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, China.
+- *2025.07*, POMS International Conference in China, Danzhou, China.
 - *2024.12*, 2nd CMAU Big Data Marketing Forum, Shanghai, China.
-- *2024.12*, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, Hubei, China.
+- *2024.12*, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, China.
 
 
 
