@@ -23,7 +23,7 @@ h1 { font-size: 18px; }
 }
 </style>
 
-Hi! I am Jiajun Meng (孟嘉俊), a third-year Ph.D. student at the School of Economics and Management, Beihang University. I received my B.S. in Information Management and Information Systems from Beihang University in 2024.
+Welcome! I am Jiajun Meng (孟嘉俊), a third-year Ph.D. student at the School of Economics and Management, Beihang University. I received my B.S. in Information Management and Information Systems from Beihang University in 2024.
 
 My research focuses on the area of quantitative marketing and marketing–operations interface, with emphases on online platforms and AI-driven business applications. I also study topics in microeconomics and industrial organization, including consumer search and behavioral economics. I use analytical and game-theoretic modeling in my research.
 
@@ -49,10 +49,10 @@ My research focuses on the area of quantitative marketing and marketing–operat
 - Referee for *Journal of Systems Science and Systems Engineering*.
 
 # Presentations
-- 06/2026, 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
-- 08/2025, 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, China.
+- 06/2026, The 48th ISMS Marketing Science Conference, Carcavelos, Portugal.
+- 08/2025, The 34th International Joint Conference on Artificial Intelligence (IJCAI), Guangzhou, China.
 - 07/2025, POMS International Conference in China, Danzhou, China.
-- 12/2024, 2nd CMAU Big Data Marketing Forum, Shanghai, China.
+- 12/2024, The 2nd CMAU Big Data Marketing Forum, Shanghai, China.
 - 12/2024, National Conference on Supply Chain and Operation Management (ISCOM), Wuhan, China.
 
 
