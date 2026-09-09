@@ -62,5 +62,5 @@ My research focuses on the area of quantitative marketing and marketing–operat
 ---
 
 
-**My Academic Genealogy**: Myself $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ OD. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz
+**My Academic Genealogy**: Me $\leftarrow$ Lin Liu (Beihang) $\leftarrow$ Anthony Dukes (USC) $\leftarrow$ Esther Gal-Or (Pittsburgh) $\leftarrow$ Robert Wilson (Stanford) $\leftarrow$ Howard Raiffa (Harvard) $\leftarrow$ O.D. Kellogg (Harvard) $\leftarrow$ David Hilbert $\leftarrow$ Bernhard Riemann $\leftarrow$ Carl F. Gauss $\leftarrow$ Friedrich Leibniz
 
